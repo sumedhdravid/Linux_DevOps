@@ -1,0 +1,7 @@
+sumedh@sumedh-virtual-machine:~/Documents$ touch myfile1.txt
+sumedh@sumedh-virtual-machine:~/Documents$ touch myfile2.txt myfile3.txt myfile4.txt myfile5.txt myfile6.txt myfile7.txt myfile8.txt myfile9.txt myfile10.txt myfile11.txt myfile12.txt myfile13.txt myfile14.txt myfile15.txt myfile16.txt myfile17.txt myfile18.txt myfile19.txt myfile20.txt
+sumedh@sumedh-virtual-machine:~/Documents$ mv myfile1.txt myfile1.yml
+sumedh@sumedh-virtual-machine:~/Documents$ mv myfile2.txt myfile2.yml
+sumedh@sumedh-virtual-machine:~/Documents$ mv myfile3.txt myfile3.yml
+sumedh@sumedh-virtual-machine:~/Documents$ mv myfile4.txt myfile4.yml
+sumedh@sumedh-virtual-machine:~/Documents$ mv myfile5.txt myfile5.yml
