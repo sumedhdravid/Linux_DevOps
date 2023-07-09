@@ -1,0 +1,30 @@
+Syntax for Loops in Shell Scripting
+
+1) While
+
+while <condition>
+do
+
+    <command 1>
+    <command 2>
+    <etc>
+done
+
+2) For
+
+for <var> in <value1 value2 ... valuen>
+do
+    <command 1>
+    <command 2>
+    <etc>
+done
+
+3) until
+
+until <condition>
+do
+
+    <command 1>
+    <command 2>
+    <etc>
+done
