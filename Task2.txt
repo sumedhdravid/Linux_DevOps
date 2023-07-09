@@ -1,0 +1,11 @@
+sumedh@sumedh-virtual-machine:~/Desktop$ gedit demo.txt
+sumedh@sumedh-virtual-machine:~/Desktop$ ls -l
+total 78072
+
+-rw-rw-r-- 1 sumedh   sumedh         51 Jul  9 23:14  demo.txt
+
+sumedh@sumedh-virtual-machine:~/Desktop$ chmod 764 demo.txt 
+sumedh@sumedh-virtual-machine:~/Desktop$ ls -l
+total 78072
+
+-rwxrw-r-- 1 sumedh   sumedh         51 Jul  9 23:14  demo.txt
